@@ -1,5 +1,4 @@
-# Hackathon Caetano Bus - BD2Interface 
-## Production Planning Database Management
+# Hackathon Caetano Bus - BD2Interface </br> Production Planning Database Management
 
 ## Project Overview
 This project, developed during the **CaetanoBus × 42 Porto Hackathon (July 22-26, 2024)**, aims to create a robust interface for managing production planning and control data at CaetanoBus. The project focuses on improving the accessibility and usability of production data to enhance decision-making and operational efficiency.
